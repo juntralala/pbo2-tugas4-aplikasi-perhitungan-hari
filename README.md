@@ -1,9 +1,9 @@
 # TUGAS 04 APLIKASI PERHITUNGAN HARI
 
 ## biodata saya
-NPM: 2210010097
-Nama: Muhammad Junaidi
-Kelas: 5B TI Reg BJB
+NPM: 2210010097 <br>
+Nama: Muhammad Junaidi <br>
+Kelas: 5B TI Reg BJB <br>
 
 ## Demo
 ![](images/demo.png)
